@@ -17,3 +17,8 @@ if target 7:
 ```
 
 found target with 2 executions, but if target was 8 it would be 3 that is the maximum execution possible.       
+
+#### Big O 
+
+linear alg: O(n)      
+binary search: O(log n)
