@@ -1,0 +1,3 @@
+- 2.1 Suppose you’re building an app to keep track of
+your finances (1. groceries, 2. movie, 3. SFBC membership). Every day, you write down everything you spent money on. At the end of the month, you review your expenses and sum up how much you spent. So, you have lots of inserts and a few reads. Should you use an array or a list?
+   ans: Linked list, because linked list is better for inserts. Arrays are better for reads. Linked list are bad for random reading, for linear reading is great, since in a linked list you always starts the reading in the first element because you don't know the memory address of the others elements, just the first one. In the array, random reading is faster because you can use the index.
