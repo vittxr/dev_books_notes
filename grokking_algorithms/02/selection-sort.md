@@ -1,21 +1,30 @@
-- array
-  - store a fixed and contiguous blocks in the memory 
-  - better for random reading, because you can use the index to access any element of the array.
-- linked list
-  - store elements randomly, each element has the memory address of the next element.
-  - better for insertions and deletions, but bad for reading because you always start from the first element. 
-  
-Big O comparing table 
+execution time: O(n x n) or O(n²) 
 
-        
-|           |Arrays   | Linked list  
-|-----------|---------|-----------|
-|READ       |O(1)     | O(n)      |
-|INSERTION  |O(n)     | O(1)      |
-|DELETION   |O(n)     | O(1)      |  
+example: 
 
-It’s worth mentioning that insertions and deletions are O(1)
-time only if you can instantly access the element to be
-deleted. It’s a common practice to keep track of the first
-and last items in a linked list, so it would take only O(1)
-time to delete those.
+```python
+# O(n)
+def findSmallest(arr):
+  smallest = arr[0]
+  smallest_index = 0
+
+  for i in range(1, len(arr)):
+    if arr[i] < smallest:
+      smallest = arr[i]
+      smallest_index = i
+
+  return smallest_index
+
+# O(n²) - using 2 loops
+def selectionSort(arr):
+  newArr = []
+  copiedArr = list(arr) 
+
+  for i in range(len(copiedArr)):
+    smallest = findSmallest(copiedArr)
+    newArr.append(copiedArr.pop(smallest))
+
+  return newArr
+  print(selectionSort([5, 3, 6, 2, 10]))
+
+```
