@@ -1,7 +1,7 @@
 # Write a recursive function to find the maximum number in a list.
 
 
-def find(lst: list[int | float]) -> int | float:
+def find(lst: list[int]) -> int:
     highv = 0
 
     for e in lst:
@@ -11,7 +11,7 @@ def find(lst: list[int | float]) -> int | float:
     return highv
 
 
-def recursive_find(lst: list[int | float]) -> int | float:
+def recursive_find(lst: list[int]) -> int:
     if len(lst) == 1:
         return lst[0]
     else:
