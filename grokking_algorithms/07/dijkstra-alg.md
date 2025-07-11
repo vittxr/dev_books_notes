@@ -1,0 +1,6 @@
+- Breadth-first search is used to calculate the shortest path in an **unweighted graph**.
+- **Dijkstra's algorithm** is used to calculate the shortest path in a **weighted graph**.
+- Dijkstra's algorithm works when **all weights are positive**.
+- If your graph has **negative weights**, use the **Bellman-Ford algorithm**.
+
+
