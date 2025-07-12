@@ -7,5 +7,5 @@
 - **Undirected graphs** don’t have arrows, and the relationship goes both ways (e.g., `ross - rachel` means “Ross dated Rachel and Rachel dated Ross”).
 - **Queues** are **FIFO** (First In, First Out).
 - **Stacks** are **LIFO** (Last In, First Out).
-- You need to check people in the **order they were added** to the search list, so the search list needs to be a **queue**. Otherwise, you won’t get the shortest path.
+- You need to check people in the **order$$ they were added** to the search list, so the search list needs to be a **queue**. Otherwise, you won’t get the shortest path.
 - Once you check someone, make sure you **don’t check them again**. Otherwise, you might end up in an **infinite loop**.
