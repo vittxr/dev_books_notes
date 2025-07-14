@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grokking_algorithms/09/assignments/04.md",
+                "file": "grokking_algorithms/11/tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04"
+              "title": "tree"
             }
           }
         ],
@@ -183,12 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2500bb26f31567ab",
+  "active": "c187044bd88f7f00",
   "lastOpenFiles": [
+    "grokking_algorithms/11/Pasted image 20250714202521.png",
+    "grokking_algorithms/11/tree.md",
+    "grokking_algorithms/big-o-notation.png",
+    "grokking_algorithms/10/k-nearest-neighbors.md",
+    "grokking_algorithms/11",
+    "11.md",
+    "grokking_algorithms/10/regression.md",
+    "grokking_algorithms/10/assignments/03.md",
+    "grokking_algorithms/10/assignments/02.md",
+    "grokking_algorithms/10/assignments/01.md",
+    "grokking_algorithms/09/assignments/04.md",
     "grokking_algorithms/10",
     "grokking_algorithms/09/assignments/03.md",
     "grokking_algorithms/09/dynamic_programming.md",
-    "grokking_algorithms/09/assignments/04.md",
     "grokking_algorithms/09/Pasted image 20250713222805.png",
     "grokking_algorithms/09/Pasted image 20250713222747.png",
     "grokking_algorithms/09/Pasted image 20250713222003.png",
