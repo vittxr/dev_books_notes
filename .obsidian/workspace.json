@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "283ea28e37dc6020",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b58bddc51158d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b152d62a5905909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grokking_algorithms/09/dynamic_programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dynamic_programming"
+            }
+          },
+          {
+            "id": "c187044bd88f7f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grokking_algorithms/09/assignments/04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6c6355c4cc22985",
+    "type": "split",
+    "children": [
+      {
+        "id": "e24a2959efee0c81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2500bb26f31567ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "643a7c67a58187bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f2550cd93e2f7158",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce07af7034ef85c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "835b2db0d7e712ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b23f21ecb7d78973",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "grokking_algorithms/09/assignments/04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 04"
+            }
+          },
+          {
+            "id": "ef914a9a4ccd6c87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "grokking_algorithms/09/assignments/04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04"
+            }
+          },
+          {
+            "id": "15a1382a3bd4866e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "422c843eb9baf795",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "grokking_algorithms/09/assignments/04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2500bb26f31567ab",
+  "lastOpenFiles": [
+    "grokking_algorithms/10",
+    "grokking_algorithms/09/assignments/03.md",
+    "grokking_algorithms/09/dynamic_programming.md",
+    "grokking_algorithms/09/assignments/04.md",
+    "grokking_algorithms/09/Pasted image 20250713222805.png",
+    "grokking_algorithms/09/Pasted image 20250713222747.png",
+    "grokking_algorithms/09/Pasted image 20250713222003.png",
+    "grokking_algorithms/09/assignments/02.md",
+    "grokking_algorithms/09/assignments/01.md",
+    "grokking_algorithms/09/assignments",
+    "grokking_algorithms/09/Pasted image 20250713215252.png",
+    "grokking_algorithms/09/Pasted image 20250713215011.png",
+    "grokking_algorithms/09/Pasted image 20250713213630.png",
+    "grokking_algorithms/09/Pasted image 20250713213621.png"
+  ]
+}
